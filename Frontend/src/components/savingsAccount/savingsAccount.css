@@ -1,0 +1,98 @@
+/* .savingsCaurosel{
+    padding:100px;
+} */
+.cauroseldivS1{
+    padding: 40px;
+}
+.savingReg{
+    width: 500px;
+    height: 400px;
+    background-color:#1775ee;
+    /* margin: 80px; */
+   
+}
+.savingsFooter{
+    width: 1400px;
+    padding: none;
+    
+}
+.quries11{
+    width: 400px;
+    height: 500px;
+    background-color:#3a8af1;
+}
+.heading11s{
+    padding-right: 140px;
+    margin-bottom: 1px;
+    color: blue;
+}
+.step1div1s{
+    width:450px;
+    height: 400px;
+}
+.infos{
+    width: 300px;
+    font: 12px;
+    color: white;
+}
+.saving2div{
+    display: flex;
+    padding-top: 30px;
+}
+.carouselsaving{
+    /* margin: 60px; */
+    padding-left:100px ;
+    padding-top: 40px;
+}
+.savingText{
+    width: 700px;
+    margin-left: 100px;
+    height: 400px;
+}
+.heading21s{
+    padding-top: 70px;
+    font-size: 30px;
+}
+.savingImp{
+    text-align: left;
+    padding: 20px;
+}
+.savingImp2{
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+.saving3div{
+    padding-top: 100px;
+    padding-left: 30px;
+    width: 1300px;
+    height: 300px;
+    /* border:4px solid  #97144d; */
+    text-align: left;
+}
+.savingfeatures{
+    padding-top:30px ;
+    padding-bottom: 20px;
+    padding-left: 300px;
+}
+.savingsalient{
+    color:  #1775ee;
+    font-weight: 300px;
+    
+}
+.savingpassage{
+    display: flex;
+}
+.savingfeatures1{
+    width: 1000px;height: 300px;
+    margin-right: 50px;
+    
+}
+.saliensaving{
+    margin-bottom: 4px;
+}
+.savingfeatures2{
+    width: 1500px;height: 300px;
+}

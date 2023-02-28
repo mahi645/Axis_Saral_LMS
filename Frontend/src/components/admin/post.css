@@ -1,0 +1,79 @@
+.notificationsContainer{
+    display: flex;
+    padding: 20px;
+}
+
+.right-top-img{
+    width: 600px;
+    height: auto;
+    padding: 20px;
+}
+.rightContainer{
+    padding: 20px;
+    
+}
+.leftContainer{
+    width: 600px;
+    height: auto;
+}
+.UserName{
+    padding-right: 3px;
+    color: blueviolet;
+}
+.postBody{
+    display: flex;
+    padding-right: 30px;
+}
+.postLikes{
+    padding-right: 150px;
+    color: blueviolet;
+}
+
+
+.post{
+    width: 450px;
+}
+.anotherPic{
+    
+    padding-bottom: 10px;
+    
+    
+}
+.postContainer{
+    padding: 10px;
+    width: 600px;
+}
+.postWrapper{
+    padding-bottom: 10px;
+    width: 500px;
+}
+.submit{
+    padding-bottom: 10px;
+    
+}
+.commment{
+    padding-bottom: 10px;
+    
+}
+.UserName{
+    width: 50px;
+    padding:3px;
+}
+/* .enterComment{
+    width: 350px;
+    padding-left: 10px;
+
+} */
+.accordian{
+    padding-right: 20px;
+}
+.input{
+    display: flex;
+    justify-content: space-between;
+}
+.postAddContainer{
+    border: 3px solid black;
+    width: 500px;
+    
+}
+ 

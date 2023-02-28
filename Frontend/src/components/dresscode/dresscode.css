@@ -1,0 +1,59 @@
+.dressImg{
+    background-repeat:no-repeat;
+    background-size:1600px;
+    
+    height:500px;
+    width:1250px;
+    margin: 50px;
+}
+.title1{
+    padding: 150px;
+    font-size: 40px;
+}
+.codeDesc{
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 40px;
+}
+.allowed{
+    
+    font-size: 25px
+}
+.allowed2{
+    font-size: 20px;
+    color: #1775ee;
+    text-align: left;
+    padding-left: 160px;
+}
+.allowed3{
+    font-size: 17px;
+    color: #1775ee;
+    text-align: left;
+    padding-left: 160px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+.codeFemale{
+    display: flex;
+    padding-left: 30px;
+}
+.Male{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    padding-left: 50px;
+}
+.femaleAllowed{
+    width: 500px;
+}
+.femalenot{
+    width: 500px;
+}
+.allow{
+    font-size: 20px;
+}
+.allowpst {
+      text-align: left;
+      padding-left: 160px;
+      margin-bottom: 1px;
+}

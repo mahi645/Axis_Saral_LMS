@@ -1,0 +1,99 @@
+.topbarContainer1 {
+    height: 70px;
+    width: 100%;
+    background-color: #1775ee;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+  }
+  .linkHeading{
+    color: white;
+    padding-right: 10px;
+    font-size: 20px;
+  }
+  .linkHeading1{
+    color: white;
+    padding-right: 10px;
+    font-size: 20px;
+    padding-bottom: 25px;
+  }
+  .linkHeading3{
+    color: white;
+    padding-right: 10px;
+    font-size: 20px;
+    padding-top: 8px;
+  }
+  .topbar5div{
+    display: flex;
+    color: white;
+  }
+  .topbarLeft1{
+    flex: 3;
+  }
+  
+  .logo1 {
+    font-size: 24px;
+    padding-right: 300px;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+  }
+    
+  .topbarRight1 {
+    /* flex: 5; */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+  }
+.topbarLinks1{
+    display: flex;
+}
+  .topbarLink1 {
+    margin-right: 10px;
+    font-size: 14px;
+    cursor: pointer;
+    
+  }
+  
+  .topbarIcons1 {
+    display: flex;
+  }
+  
+  .topbarIconItem1 {
+    margin-right: 15px;
+    cursor: pointer;
+    position: relative;
+  }
+  
+  .topbarIconBadge1 {
+    width: 15px;
+    height: 15px;
+    background-color: red;
+    border-radius: 50%;
+    color: white;
+    position: absolute;
+    top: -5px;
+    right: -5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+  }
+  
+  .topbarImg1 {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    object-fit: cover;
+    cursor: pointer;
+  }
+  #dropdown-basic-button,#dropdown-button-dark-example1{
+    outline: none;
+    background-color: #1775ee;
+    color: white;
+    font-size: 20px;
+  }
+  

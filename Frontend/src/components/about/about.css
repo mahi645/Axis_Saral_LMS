@@ -1,0 +1,53 @@
+.image{
+    width: 1300px;
+    height: 400px;
+    padding-right: 30px;
+}
+.aboutLeftContainer{
+    padding-top: 30px;
+}
+.aboutRightContainer{
+    padding: 30px;
+    display: flex;
+}
+.right{
+    width: 700px;
+    height: 300px;
+    text-align: left;
+    padding-right: 30px;
+    margin-right: 40px;
+    
+}
+.aboutus{
+    color: blueviolet;
+}
+.aboutInfo{
+    color: blueviolet;
+    font-size: 17px;
+}
+.sub{
+    
+    margin-left: 50px;
+    
+}
+.llist{
+    margin-right: 30px;
+}
+.dirList{
+    display: flex;
+}
+.dirName{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    cursor: pointer;
+}
+.directors{
+    padding: 20px;
+    margin-right: 50px;
+}
+.dirDesignation{
+    font-weight: 100px;
+    font-size: 17px;
+}

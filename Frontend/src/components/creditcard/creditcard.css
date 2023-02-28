@@ -1,0 +1,85 @@
+.img{
+    width: 1300px;
+    height: 300px;
+}
+.step1div1{
+    width:450px;
+    height: 400px;
+}
+.step1div21{
+    width:450px;
+    height: 400px;
+    padding-top:60px;
+}
+.info{
+    width: 300px;
+    font: 12px;
+    color: white;
+}
+.heading11{
+    padding-right: 140px;
+    margin-bottom: 1px;
+    color: blue;
+}
+.creditReg{
+    width: 500px;
+    height: 400px;
+    background-color:#3a8af1;
+    /* margin: 80px; */
+   
+}
+.creditText{
+    width: 700px;
+    margin-left: 100px;
+    height: 400px;
+    
+}
+.carouselcredit{
+    /* margin: 60px; */
+    padding-right:150px ;
+    
+    padding-top: 40px;
+   
+}
+.credit2div{
+    display: flex;
+    padding-top: 30px;
+}
+.creditcardImp{
+    text-align: left;
+    padding: 20px;
+}
+.heading21{
+    padding-top: 70px;
+    font-size: 30px;
+}
+.credit3div{
+    padding-top: 100px;
+    padding-left: 30px;
+    width: 1300px;
+    height: 300px;
+    /* border:4px solid  #97144d; */
+    text-align: left;
+}
+.salientfeatures{
+    color:  #1775ee;
+    font-weight: 300px;
+    
+}
+.salient{
+    padding-top:30px ;
+}
+.salien{
+    margin-bottom: 4px;
+}
+.passage{
+    display: flex;
+}
+.features1{
+    width: 1500px;height: 300px;
+    margin-right: 100px;
+}
+.features2{
+    width: 1500px;height: 300px;
+}
+

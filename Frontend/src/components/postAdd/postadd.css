@@ -1,0 +1,35 @@
+.postid{
+    width: 250px;
+    margin-left: 5px;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.postid:focus{
+    outline: none;
+}
+.postimg{
+    width: 250px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    
+}
+.postimg:focus{
+    outline: none;
+}
+.addPost{
+    border:5px solid whitesmoke;
+    width: 350px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.forgotpasswordButton{
+    width: 120px;
+    height: 40px;
+    background-color: #1775ee;
+    border: none;
+    margin-left: 8px;
+    color: white;
+}
+.forgotpasswordButton:focus{
+    outline: none;
+}

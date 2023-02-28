@@ -1,0 +1,144 @@
+.live-projects-container{
+    display: flex;
+}
+.live-left-wrapper{
+    width: 800px;
+    margin:40px
+}
+.live-right-wrapper{
+    width: 440px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.projects-live-accordian{
+    padding: 30px;
+    background-color: rgb(231, 211, 211);
+    
+}
+.accordion-div-live-pro{
+    margin-bottom: 20px;
+}
+.projects-accordioan-live{
+    padding: 20px;
+    background-color:rgb(231, 211, 211) ;
+}
+.projects-live-title{
+    margin-top: 10px;
+}
+.owner-img-live{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+.project-name-summary{
+    padding-left: 20px;
+    width: 300px;
+}
+.owner-live-project{
+    padding-left: 20px;
+}
+.owner-project-img{
+    display: flex;
+}
+.project-owner-name{
+    
+    padding-top: 30px;
+}
+.owner-name-live{
+    padding-left: 10px;
+}
+/* project -info-properties */
+.project-projectId{
+    background-size: 650px 400px;
+    background-repeat: no-repeat;
+    width: 700px;
+    height: 400px;
+}
+.project-desc-1{
+    padding-top: 20px;
+    color: white;
+}
+.project-flowchart-live{
+    text-align: left;
+    margin-top: 20px;
+}
+.flow-chart-live1{
+   width: 650px;
+   height: 400px;
+   margin-right: 50px; 
+}
+.add-div-conatiner{
+    
+   margin-left: 20px;
+   margin-right: 10px; 
+   width: 350px;
+   
+}
+.input-div-project{
+    margin-bottom: 10px;
+}
+.add-input{
+    width: 330px;
+    height: 35px;
+    padding-left: 20px;
+    border: 1px solid grey;
+}
+.add-input:focus{
+    outline: none;
+}
+.add-project-button{
+    width: 150px;
+    height: 35px;
+    background-color: #1777ee;
+    color: white;
+    margin: 10px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+.add-project-button:focus{
+    outline: none;
+}
+.delete-project-div{
+    margin: 20px;
+}
+.del-project-button{
+    width: 150px;
+    height: 35px;
+    background-color: #1777ee;
+    color: white;
+    margin: 10px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+.projects-wrapper-button{
+    display: flex;
+}
+.delete-project-div1{
+    margin-left: 200px;
+    text-align: left;
+}
+.del-project-button1{
+    width: 150px;
+    height: 35px;
+    background-color: #1777ee;
+    color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+.search-div-live{
+    margin-top: 20px;
+    margin-left: 700px;
+}
+.search-pro{
+    width: 400px;
+    height: 35px;
+    padding-left: 20px;
+}
+.search-btn-live{
+    width: 150px;
+    height: 40px;
+    background-color: #1777ee;
+    color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+}

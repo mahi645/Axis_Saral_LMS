@@ -1,0 +1,64 @@
+.home-caurosel2{
+    width: 1250px;
+    height: 400px;
+    margin-top: 50px;
+    margin-left: 50px;
+    
+}
+.imagDesc-user{
+    width: 350px;
+    height: 100px;
+    margin-left: 100px;
+    padding-top: 100px;
+}
+.imagDesc2-user{
+    width: 350px;
+    height: 100px;
+    margin-left: 450px;
+    padding-top: 80px;
+}
+.imgtitle-home2-user{
+    color: white;
+    font-size: 27px;
+    margin-left:10px ;
+}
+
+/* user-links-products */
+
+.user-products1{
+    display: flex;
+    width: 1300px;
+    height: 350px;
+    
+    /* padding: 40px; */
+    margin:40px;
+    /* border:9px solid blue */
+}
+.home-loan-user1{
+    width: 300px;
+    height: 300px;
+    margin-right: 20px;
+}
+.product-homeLoan1{
+    width: 300px;
+    height: 300px;
+    /* border: 6px solid red; */
+   /* margin-left:40px */
+   margin-right: 60px;
+
+}
+.homeLoanheading-11{
+    width: 280px;
+    height: 50px;
+    
+}
+.productText-user1{
+    color:white;
+    font-size: 19px;
+    margin-top: 8px;
+    padding-top: 10px;
+}
+.products-user-title{
+    margin-top:20px;
+    color: #1775ee;
+}

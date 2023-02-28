@@ -1,0 +1,78 @@
+.img1divhome{
+    background-repeat: no-repeat;
+    background-size: 1420px;
+    height: 500px;
+}
+.homeloanCOntainer{
+    padding: 40px;
+}
+.deschome1{
+    padding-left: 900px;
+    padding-top: 10px;
+}
+.bankname{
+    font-size: 28px;
+    font-weight: 400px;
+    color: #1775ee;
+}
+.wantloan{
+    font-size: 30px;
+    font-weight: 400px;
+    color: #1775ee;
+}
+.deschome2{
+    padding-left: 700px;
+    padding-top: 250px;
+}
+.homeloanSteps{
+    display: flex;
+}
+.iconImg1{
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 50%;
+    background-color: rgb(219, 203, 203);
+    border:3px solid rgb(204, 190, 190);
+}
+.step1{
+    padding: 40px;
+    display: flex;
+    margin-left: 100px;
+}
+.step2{
+    padding: 10px;
+    display: flex;
+}
+.iconImg{
+    padding-right: 7px;
+    padding-bottom: 4px;
+}
+.imgPassage{
+    width: 600px;
+    height: 200px;
+    padding: 60px;
+}
+.imgDesc1{
+    width: 500px;
+    height: 300px;
+    padding: 40px;
+}
+.img2home{
+    width: 600px;
+    height: 500px;
+    padding-left: 10px;
+}
+.headinghomeloan{
+    color: #1775ee;
+    padding-right: 50px;
+    padding-bottom: 10px;
+}
+.headingtext{
+    padding-right: 5px;
+}
+.texthome{
+    text-align: left;
+    font-size: 20px;
+    margin-right: 70px;
+}

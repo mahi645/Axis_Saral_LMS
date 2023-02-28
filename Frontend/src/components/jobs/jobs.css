@@ -1,0 +1,176 @@
+.live-projects-container1{
+    display: flex;
+}
+.live-left-wrapper1{
+    width: 800px;
+    margin:40px
+}
+.live-right-wrapper1{
+    width: 440px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.projects-live-accordian1{
+    padding: 30px;
+    background-color: rgb(231, 211, 211);
+    
+}
+.accordion-div-live-pro1{
+    margin-bottom: 20px;
+}
+.projects-accordioan-live1{
+    padding: 20px;
+    background-color:rgb(231, 211, 211) ;
+}
+.projects-live-title1{
+    margin-top: 10px;
+}
+.owner-img-live1{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+.project-name-summary1{
+    padding-right: 200px;
+    width: 300px;
+}
+.owner-live-project1{
+    padding-left: 20px;
+}
+.owner-project-img1{
+    display: flex;
+}
+.project-owner-name1{
+    
+    padding-top: 30px;
+}
+.owner-name-live1{
+    padding-left: 10px;
+}
+/* project -info-properties */
+.project-projectId1{
+    background-size: 650px 400px;
+    background-repeat: no-repeat;
+    width: 700px;
+    height: 400px;
+}
+.project-desc-11{
+    padding-top: 20px;
+    color: white;
+}
+.project-flowchart-live1{
+    text-align: left;
+    margin-top: 20px;
+}
+.flow-chart-live11{
+   width: 650px;
+   height: 400px;
+   margin-right: 50px; 
+}
+.add-div-conatiner1{
+    
+   margin-left: 20px;
+   margin-right: 10px; 
+   width: 350px;
+   
+}
+.input-div-project1{
+    margin-bottom: 10px;
+}
+.input-div-project12{
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+.add-input1{
+    width: 330px;
+    height: 35px;
+    padding-left: 20px;
+    border: 1px solid grey;
+}
+.add-input12{
+    width: 330px;
+    height: 70px;
+    padding-left: 18px;
+    border: 1px solid grey;
+}
+.add-input12:focus{
+    outline: none;
+}
+.add-project-button1{
+    width: 150px;
+    height: 35px;
+    background-color: #1777ee;
+    color: white;
+    margin: 10px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+.add-project-button1:focus{
+    outline: none;
+}
+.delete-project-div1{
+    margin: 20px;
+}
+.del-project-button1{
+    width: 150px;
+    height: 35px;
+    background-color: #1777ee;
+    color: white;
+    margin: 10px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+.projects-wrapper-button1{
+    display: flex;
+}
+.delete-project-div11{
+    margin-left: 200px;
+    text-align: left;
+}
+.del-project-button11{
+    width: 150px;
+    height: 35px;
+    background-color: #1777ee;
+    color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+.search-div-live1{
+    margin-top: 20px;
+    margin-left: 700px;
+}
+.search-pro1{
+    width: 400px;
+    height: 35px;
+    padding-left: 20px;
+}
+.search-btn-live1{
+    width: 150px;
+    height: 40px;
+    background-color: #1777ee;
+    color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+.jobs-wrapper-div{
+    /* padding-left: 20px; */
+    padding-right: 20px;
+    margin-left: 20px;
+    margin-right:20px
+}
+.name-job{
+    text-align: left;
+    margin-bottom: 2px;
+    font-size: 20px;
+    
+}
+.job-desc-pro{
+    width: 650px;
+    /* height: 130px; */
+    text-align: left;
+    /* padding-left: 20px; */
+    /* border:3px solid red; */
+}
+.project-name-job1{
+    width: 350px;
+}

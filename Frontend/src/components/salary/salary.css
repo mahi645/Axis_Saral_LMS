@@ -1,0 +1,45 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  thead {
+    background-color: #d1c9c9;
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #131212;
+    padding: 8px;
+  }
+  
+  th {
+    text-align: center;
+  }
+  
+  tbody tr:nth-child(even) {
+    background-color: white;
+  }
+  .logo{
+    height: 10px;
+     width:"auto";
+}
+.Distance{
+    padding-bottom: 500px;
+}
+.Salary1{
+    text-align: center;
+}
+.table{
+    display: flex;
+}
+.Spacing{
+    padding-left: 350px;
+}
+.Spacing1{
+    padding-left: 270px;
+}
+.Spacing2{
+    padding-left: 300px;
+}
